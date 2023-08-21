@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Merriweather&family=Roboto+Slab&display=swap');
+
+body{
+    background-color: #141414;
+    color: white;
+    font-family: 'Merriweather', 'Arial Narrow', Arial, sans-serif
+}
+
+header{
+    text-align: center;
+    font-size: xx-large;
+}
+
+h1{
+    text-align: center;
+}
+
+.profile{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.upper-grid{
+    display: grid;
+    text-align: center;
+}
+
+.lower-grid{
+    display: grid;
+    text-align: center;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
